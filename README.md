@@ -132,4 +132,4 @@ And design your page
 ![](./out.png)
 
 ## Result:
-Successfully Completed.
+The program is Successfully Completed
